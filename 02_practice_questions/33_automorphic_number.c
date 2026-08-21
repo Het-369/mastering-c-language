@@ -55,4 +55,5 @@ Output:
 ===============================================================================
 Enter a positive integer: 25
 25 is an Automorphic Number.
+
 */
